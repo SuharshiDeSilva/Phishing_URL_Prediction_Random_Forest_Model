@@ -19,9 +19,7 @@ To accurately predict phishing URL without falsely predicting phishing URLs whic
 
 ### In Repository:
 1. Data& Data Dictionary
-![](images/DataDictionary.png)
-
-2. 
+![hello](DataDictionary.png)
 3. Random Forest Model Creation
 4. Sample decision tree from random forest
 
